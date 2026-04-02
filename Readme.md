@@ -1,6 +1,6 @@
-# 🍔 Food Ordering System 
+#  Food Ordering System 
 
-## 📌 Project Overview
+##  Project Overview
 The Food Ordering System is a web-based application designed to simplify the process of ordering food online. It allows users to register, log in, browse available food items, and place orders.
 
 Users can explore different food items, view details such as price and description, and select items based on their preferences. The system enables users to place orders, manage quantities, and track their order history.
@@ -9,7 +9,7 @@ The application ensures smooth order processing and maintains records of users, 
 
 ---
 
-# 📂 Modules in the System
+#  Modules in the System
 
 - Authentication Module  
 - User Management Module  
@@ -22,7 +22,7 @@ The application ensures smooth order processing and maintains records of users, 
 
 ---
 
-# ⚙️ System Requirements
+#  System Requirements
 
 The system supports the following functionalities:
 
@@ -37,7 +37,7 @@ The system supports the following functionalities:
 
 ---
 
-# 📋 Functional Requirements (FRS)
+#  Functional Requirements (FRS)
 
 - User should be able to register with valid details such as name, email, and password  
 - User should be able to log in using valid credentials  
@@ -53,7 +53,7 @@ The system supports the following functionalities:
 
 ---
 
-# 🚀 Non-Functional Requirements (NFRS)
+#  Non-Functional Requirements (NFRS)
 
 - System should respond quickly  
 - System should handle multiple users  
@@ -69,7 +69,7 @@ The system supports the following functionalities:
 
 ---
 
-# 📊 Requirement Traceability Matrix (RTM)
+#  Requirement Traceability Matrix (RTM)
 
 | Requirement Description | Module | Severity | Priority |
 |------------------------|--------|----------|----------|
@@ -85,7 +85,7 @@ The system supports the following functionalities:
 
 ---
 
-# 🤖 Automation Feasibility
+#  Automation Feasibility
 
 Automation feasibility in a Food Ordering System focuses on identifying which parts of the application are stable, repeatable, and suitable for automation.
 
@@ -97,7 +97,7 @@ A balanced approach using both automated testing and manual testing ensures bett
 
 ---
 
-# 🧪 Testing Assumptions
+#  Testing Assumptions
 
 - Users must register and log in before accessing the system  
 - Only logged-in users can place orders  
@@ -113,5 +113,5 @@ A balanced approach using both automated testing and manual testing ensures bett
 
 ---
 
-## 👨‍💻 Author
+##  Author
 *Ramya Rayala*
