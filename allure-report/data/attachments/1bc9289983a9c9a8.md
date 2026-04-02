@@ -1,0 +1,42 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e6]:
+        - link "FoodieExpress" [ref=e7]:
+          - /url: /
+          - img [ref=e9]
+          - generic [ref=e14]: FoodieExpress
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - link "Home" [ref=e17]:
+              - /url: /
+            - link "Menu" [ref=e18]:
+              - /url: /menu
+            - link "Orders" [ref=e19]:
+              - /url: /orders
+          - generic [ref=e20]:
+            - link [ref=e21]:
+              - /url: /cart
+              - img [ref=e23]
+            - generic [ref=e26]:
+              - generic [ref=e27]: Hi, ramya
+              - button [ref=e28]:
+                - img
+    - main [ref=e29]:
+      - generic [ref=e30]:
+        - heading "Your Cart" [level=1] [ref=e31]
+        - generic [ref=e32]:
+          - img [ref=e34]
+          - heading "Your cart is empty" [level=2] [ref=e37]
+          - paragraph [ref=e38]: Looks like you haven't added any delicious food yet.
+          - link "Browse Menu" [ref=e39]:
+            - /url: /menu
+            - button "Browse Menu" [ref=e40]
+    - contentinfo [ref=e41]:
+      - paragraph [ref=e43]: © 2026 FoodieExpress. All rights reserved.
+  - region "Notifications (F8)":
+    - list
+```
